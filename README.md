@@ -1,7 +1,7 @@
 # Oscillocat
-Data and notebooks for "Tracking Propagating Perturbations in Chemical Reactions"
+Data and notebooks for "Tracking Propagating Perturbations in Chemical Reactions" (https://doi.org/10.1002/ceur.202500266)
 
-The "Under review" version of this repository has been uploaded to Zenodo @ [![DOI](https://zenodo.org/badge/1004871331.svg)](https://doi.org/10.5281/zenodo.15777628)
+The "Published" version of this repository has been uploaded to Zenodo @ [![DOI](https://zenodo.org/badge/1004871331.svg)](https://doi.org/10.5281/zenodo.15777628)
 
 
 ### In this repository
